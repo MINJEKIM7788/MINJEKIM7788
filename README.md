@@ -9,7 +9,7 @@
 ## 🔧 Technical Skills
 
 - 💡 Power Engineering: CYME, ETAP, MATLAB/Simulink, PSCAD  
-- ⚙️ CAD Design: SolidWorks, AutoCAD, 3D Printing, Sheet Metal  
+- ⚙️ CAD Design: SolidWorks, NX Simens, Autodesk Inventor, Revit, AutoCAD, 3D Printing, Sheet Metal  
 - 🧠 Tools & Scripting: Python, Git, MS Excel, Arduino  
 - 🌍 Communication: Technical writing, presentations, bilingual (Korean/English)
 
